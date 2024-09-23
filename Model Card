@@ -1,0 +1,15 @@
+Model Details
+- Person: JY
+- Model date: 2024-Sept
+- Model version: 1.0
+- Model type: Gaussian Process Regression
+- Information: 
+Acquisition Function - Expected Improvement (EI), 
+Kernal - Matern
+Input - Variable dimensions (ranging from 2D to 8D) depending on the function
+
+Intended Use
+Primary Objective: This model is designed to optimize 8 black-box functions 
+
+Metrics
+Average rank provided weekly 
